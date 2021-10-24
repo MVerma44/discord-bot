@@ -245,8 +245,7 @@ async def on_message(message):
         await message.reply(embed=embed)
 
     
-    code = ['mc', 'bc', 'chutiye', 'chutiya ', 'fuck ', 'fucker', 'bsdk', 'bhosdike', 'madarchod', 'kutte', 'kamine', 'jaanwar','bhadwe', 'harami', 'bakchodi','bakchod', 'laude', 'tatti', 'behenchod', 'betichod', 'randi', 'chodu', 'lund', 'muth', 'bhosda', 'chudai', 'kutte', 'gand', 'gandu', 'lund', 'kutiya',
-    'bhandwa', 'bhadve', 'bhadva', 'chut']
+    code = ['bad words']
 
     msg_content = message.content.lower()
     new = msg_content.split(" ")
